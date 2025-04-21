@@ -5,7 +5,7 @@ class DBHelper4:
         self.con=connector.connect(host='localhost',
                       port='3306',
                       user='root',
-                      password='Justlogin#10',
+                      password='?',
                       database='registered_vehicle')
 
 #vehicle info
